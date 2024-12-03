@@ -1,0 +1,10 @@
+{
+  "id": "amx_sqlite3",
+  "name": "amx_sqlite3",
+  "description": "description",
+  "envvars": {},
+  "disabled": false,
+  "scope": "",
+  "provider": "python",
+  "script": "index.py"
+}
